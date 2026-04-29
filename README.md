@@ -177,4 +177,5 @@ python terminal-bancario.py
 4. **Robustez**: Validação de todas as entradas do usuário
 5. **Usabilidade**: Interface intuitiva com menus claros
 
+---
 *Desenvolvido para fins de estudo e prática de POO com Python.*
